@@ -1,0 +1,4 @@
+int a9;
+begin_progr
+a9:=1;
+end_progr
